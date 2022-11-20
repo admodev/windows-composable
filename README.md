@@ -2,7 +2,7 @@
 
 ## Windows PowerShell Docker templates automation
 
-### Creator and maintainer: admodev <admodevcodes@outlook.com>
+### Creator and maintainer: <admodevcodes@outlook.com>
 
 #### Instructions
 
