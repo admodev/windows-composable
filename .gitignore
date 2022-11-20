@@ -1,0 +1,5 @@
+# Ignore the folder that holds Dockerfiles
+Images/
+
+# Ignore user docker-compose created file
+docker-compose.yml
