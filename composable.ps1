@@ -20,8 +20,6 @@ function Get-Compose-Services {
 Write-Host "Welcome to composable!"
 Write-Host "Please, detail the services and images you want to compose for build when prompted."
 
-$FileExists = [System.IO.File]::Exists(".\docker-compose.y*ml")
-
 if (not-exist ".\docker-compose.y*ml") {
   Create-Compose-File
 } else {
